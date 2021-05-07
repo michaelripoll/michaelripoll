@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/36219525/117514370-446ee300-af59-11eb-946c-c46255ad3129.png)
-
+![image](https://user-images.githubusercontent.com/36219525/117514475-8dbf3280-af59-11eb-8a9c-2a34f332c92c.png)
 
 - 👋 Hi, I’m @michaelripoll
 - 👀 I’m interested in ...
