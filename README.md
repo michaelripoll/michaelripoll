@@ -18,17 +18,11 @@ You can click the Preview link to take a look at your changes.
 ```javascript
 const michaelripoll = {
   pronouns: "he" | "him",
-  code: [C#, .Net, Python],
+  code: [C#, .Net, Python, Javascript, Typescript, HTML],
   tools: [React]
 }
 ```
 
 [![michaelripoll's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelripoll)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
-<br/>
-<!---
-<a href="https://twitter.com/mripoll_dev">
-  <img align="right" alt="Michael Ripoll | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
---->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
