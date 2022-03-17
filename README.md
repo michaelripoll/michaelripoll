@@ -1,4 +1,8 @@
-### 👋 Hello world, my name is Michael Ripoll, I am 28 years old, I am from Colombia, from the city of Barranquilla, I am a systems engineer, I have worked as a junior developer, I have experience in backend with the ASP.NET framework with the C # language and I have knowledge in frontend with bootstrap and angular.
+### <h2> Hi, I'm Michael Ripoll!</h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
+<p><em>Systems Engineer at <a href="https://www.cuc.edu.co/">Universidad de la Costa CUC</a><img src="https://imagenpng.com/wp-content/uploads/2020/11/birrete-2.jpg" width="30"></br>Software Developer
+</em></p>
 
 [![Twitter: mripoll_dev](https://img.shields.io/twitter/follow/mripoll_dev?style=social)](https://twitter.com/mripoll_dev)
 [![Linkedin: michaelripoll](https://img.shields.io/badge/-michaelripoll-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelripoll/)](https://www.linkedin.com/in/michaelripoll/)
