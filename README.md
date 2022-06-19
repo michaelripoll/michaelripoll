@@ -18,8 +18,8 @@ You can click the Preview link to take a look at your changes.
 ```javascript
 const michaelripoll = {
   pronouns: "he" | "him",
-  backend: [C#, ASP.NET Framework, ASP.NET Core, Python, Javascript, Typescript],
-  frontend: [HTML, React, Angular]
+  backend: [C#, ASP.NET Framework, ASP.NET Core, Python],
+  frontend: [HTML, JavaScript, TypeScript, React, Angular]
 }
 ```
 
