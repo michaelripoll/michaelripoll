@@ -5,7 +5,6 @@
   Software Developer
 </em></p>
 
-[![Twitter: mripoll_dev](https://img.shields.io/twitter/follow/mripoll_dev?style=social)](https://twitter.com/mripoll_dev)
 [![Linkedin: michaelripoll](https://img.shields.io/badge/-michaelripoll-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelripoll/)](https://www.linkedin.com/in/michaelripoll/)
 [![GitHub michaelripoll](https://img.shields.io/github/followers/michaelripoll?label=follow&style=social)](https://github.com/michaelripoll)
 <!---
